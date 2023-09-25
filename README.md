@@ -8,12 +8,12 @@ Hello! 👋 I'm Ashkan Khodapanah, a front-end developer with experience in Java
 ## My Skills
 
 - Front-end Development
-- JavaScript
-- React
-- Redux
-- Bootstrap
-- HTML
-- CSS
+   - JavaScript
+  - React
+  - Redux
+  - Bootstrap
+  - HTML
+  - CSS
 
 ## Contact Me
 
@@ -29,12 +29,12 @@ Hello! 👋 I'm Ashkan Khodapanah, a front-end developer with experience in Java
 ## مهارت‌های من
 
 - توسعه فرانت‌اند
-- جاوااسکریپت
-- ری‌اکت
-- رداکس
-- بوت‌استرپ
-- اچ‌تی‌ام‌ال
-- سی‌اس‌اس
+  - جاوااسکریپت
+  - ری‌اکت
+  - رداکس
+  - بوت‌استرپ
+  - اچ‌تی‌ام‌ال
+  - سی‌اس‌اس
 
 ## تماس با من
 
