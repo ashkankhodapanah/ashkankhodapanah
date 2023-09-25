@@ -19,8 +19,8 @@ Hello! 👋 I'm Ashkan Khodapanah, a front-end developer with experience in Java
 
 - Email:ashkan.daei69.com
 - [GitHub Profile](https://github.com/ashkankhodapanah)
-<!-- - [LinkedIn Profile](https://www.linkedin.com/in/yourusername) -->
 - [Instagram](https://www.instagram.com/ashkandaeii)
+<!-- - [LinkedIn Profile](https://www.linkedin.com/in/yourusername) -->
 
 # درباره من
 
@@ -38,9 +38,9 @@ Hello! 👋 I'm Ashkan Khodapanah, a front-end developer with experience in Java
 
 ## تماس با من
 
-- ایمیل: your.email@example.com
-- [پروفایل GitHub](https://github.com/yourusername)
-- [پروفایل LinkedIn](https://www.linkedin.com/in/yourusername)
+- ایمیل:ashkan.daei69@gmail.com
+- [پروفایل GitHub](https://github.com/ashkankhodapanah)
+- [پروفایل LinkedIn](https://www.linkedin.com/in/ashkandaeii)
 
 
 #MY ACTIVITY
