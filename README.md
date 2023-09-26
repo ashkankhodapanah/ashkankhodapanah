@@ -26,7 +26,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<h2>⚡️ &nbsp; Github Stats</h2>
 
+<a href="https://github.com/ashkankhodapanah">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashkankhodapanah&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkankhodapanah" />
+</a>
 <br />
 
 <h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
