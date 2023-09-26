@@ -1,52 +1,36 @@
 
 
-Hello! 👋 I'm Ashkan Khodapanah, a front-end developer with experience in JavaScript, React, Redux, Bootstrap, HTML, and CSS.
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-# About Me
+<h2 align="center">سلام 🖐 من اشکان خداپناه هستم</h2>
+<p align="center">
+   مهندسی برق قدرت  و  برنامه نویس فرانت اند  👨‍💻  
+</p>
 
+<br />
 
-## My Skills
+<h2 align"right">ابزار هایی که استفاده می‌کنم 💪</h2>
 
-- Front-end Development
-   - JavaScript
-  - React
-  - Redux
-  - Bootstrap
-  - HTML
-  - CSS
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+<br />
 
-## Contact Me
+<h2 align="right">تماس با من 📞</h2>
+<a href="https://instagram.com/rad_front"><img width="50px" height="50px" align="left" src="" alt="Instagram" /></a>
+<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="" alt="Telegram" /></a>
 
-- Email:ashkan.daei69.com
-- [GitHub Profile](https://github.com/ashkankhodapanah)
-- [Instagram](https://www.instagram.com/ashkandaeii)
-<!-- - [LinkedIn Profile](https://www.linkedin.com/in/yourusername) -->
+<br />
 
-# درباره من
+<h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
 
-![سلام! 👋 من اشکان خداپناه هستم، یک توسعه‌دهنده فرانت‌اند با تجربه در زمینه‌های جاوااسکریپت، ری‌اکت، رداکس، بوت‌استرپ، اچ‌تی‌ام‌ال و سی‌اس‌اس.
+ <h3 align="right">🌟 تولید محتوا</h3>
+ <h3 align="right">🌟 توسعه فرانت‌اند سایت Onlyjs</h3>
 
-## مهارت‌های من
+<br />
 
-- توسعه فرانت‌اند
-  - جاوااسکریپت
-  - ری‌اکت
-  - رداکس
-  - بوت‌استرپ
-  - اچ‌تی‌ام‌ال
-  - سی‌اس‌اس
+<h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
 
-## تماس با من
+<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
-- ایمیل:ashkan.daei69@gmail.com
-- [پروفایل GitHub](https://github.com/ashkankhodapanah)
-- [پروفایل LinkedIn](https://www.linkedin.com/in/ashkandaeii)
+<br />
 
-
-#MY ACTIVITY
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkankhodapanah&show_icons=true&theme=radical)
-
-#MY LANGUAGE
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkankhodapanah&hide_progress=true)
+<h3 align="left">🖥 React Js | 50%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
