@@ -30,6 +30,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+---
+
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/ashkankhodapanah">
@@ -38,12 +40,16 @@
 </a>
 <br />
 
+---
+
 <h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
 
  <h3 align="right">🌟 تولید محتوا</h3>
  <h3 align="right">🌟 توسعه فرانت‌اند سایت </h3>
 
 <br />
+
+---
 
 <h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
 
@@ -53,6 +59,7 @@
 
 <h3 align="left">🖥 React Js | 50%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
+---
 
 <h2>📞 &nbsp; Connct Me </h2>
 
